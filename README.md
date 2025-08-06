@@ -1,28 +1,57 @@
 # Welcome to my GitHub Profile
 
-## Data Mastery: Crafting Strategic Insights through Analysis
+## About Me  
+- Hi there, I am **Viswadhanush B R**
+- MBA - Specialization in Business Analytics and Finance Graduate  
 
-### About Me
+---
 
-- Hi there, I'm Viswadhanush B R!
-- Currently doing MBA - Finance and Business Analytics at School of Management, SASTRA Deemed to University.
+## Career Interest  
+Seeking opportunities as a:  
+- Data Scientist  
+- AI/ML Engineer  
+- Data Analyst  
+- Business Analyst  
+- SQL Developer 
+- and Other Relevant Roles  
 
-### Projects
+---
 
-- 📂 Explore my projects at [Repositories](https://github.com/Viswadhanush-BR?tab=repositories)
-- ✉ Reach me at: viswadhanushbr@gmail.com
+## Skill Set  
+My technical skill set includes:  
 
-### Resume
+- Python with libraries such as **Scikit-learn** for Machine Learning, **Pandas** for Data Manipulation,  **Matplotlib** and **Seaborn** for Data Visualization  and  **NumPy** for Numerical Computations
+- **MySQL** for Database Management and **Power BI** for creating interactive Visual Analytics dashboards  
+- A strong understanding of **Statistics, and Research Methodology** for analytical decision-making  
 
-- View my detailed [Resume](https://linktr.ee/Viswadhanush_B_R)
+---
+
+## Research Work and Projects  
+I have completed **mini projects** involving predictive analytics, visual analytics and have also authored **two research papers**:  
+
+- One paper published in an international journal indexed in **15+ databases including SCOPUS, ABDC and Web of Science(ESCI)**  
+- Another paper published in an **international journal indexed in the Indian Citation Index (ICI)**  
+
+With this combination of academic background, technical expertise, and research exposure, I aim to contribute effectively to data-driven projects in an organization.  
+
+**Explore my research work and projects at [**Repositories**](https://github.com/Viswadhanush-BR?tab=repositories)**
 
 
-### Connect with Me
+---
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/vdbr21)
+## Education  
 
+- **Master of Business Administration (MBA) in Business Analytics and Finance**  
+  *School of Management, SASTRA Deemed to be University, Thanjavur, Tamil Nadu*  
 
-# Languages & Tools
+- **B.Com. (Bachelor of Commerce)**  
+  *Bishop Heber College (Autonomous), Affiliated to Bharathidasan University, Tiruchirappalli, Tamil Nadu* 
 
-- *Data Analysis:* ![Power BI](https://img.shields.io/badge/-Power%20BI-yellow?logo=powerbi&logoColor=white) ![Excel](https://img.shields.io/badge/-Excel-green?logo=microsoft-excel&logoColor=white) ![MySQL](https://img.shields.io/badge/-MySQL-blue?logo=mysql&logoColor=white)
-- *Programming:* ![Python](https://img.shields.io/badge/-Python-blue?logo=python&logoColor=white) ![NumPy](https://img.shields.io/badge/-NumPy-blue?logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/-Pandas-blue?logo=pandas&logoColor=white) ![Matplotlib](https://img.shields.io/badge/-Matplotlib-blue?logo=python&logoColor=white) ![Seaborn](https://img.shields.io/badge/-Seaborn-blue?logo=python&logoColor=white)
+## Resume
+View my detailed [**Resume**](https://www.linktr.ee/Viswadhanush_B_R) 
+
+## Connect with Me
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/vdbr21)
+
+## Contact Information  
+- **Email:** [viswadhanushbr@gmail.com](mailto:viswadhanushbr@gmail.com)
